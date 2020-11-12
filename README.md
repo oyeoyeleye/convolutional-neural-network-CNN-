@@ -17,7 +17,7 @@ more complex images like CT and MRI in the future.
 
 ## Goal
 
-Our goal is to train a deep convolutional neural network that can reliably classify dierent thoracic pathologies from
+Our goal is to train a deep convolutional neural network that can reliably classify different thoracic pathologies from
 human chest X{rays. This will allow for a faster and more accurate diagnoses of several diseases, which will lead to
 a more effcient care of patients in hospitals around the world.
 
