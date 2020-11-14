@@ -1,4 +1,4 @@
-# Identifying thoracic pathologies from Chest X{ray data
+# Identifying thoracic pathologies from Chest X-ray data
 
 ## Background
 
