@@ -2,7 +2,7 @@
 
 ## Background
 
-A frequent and cost effective medical imaging examination is the chest X{ray. However, a clinical diagnosis can
+A frequent and cost effective medical imaging examination is the chest X-ray. However, a clinical diagnosis can
 be more challenging than diagnosis via chest CT imaging. In fact, achieving clinically relevant computer-aided
 detection and diagnosis (CAD) in real world medical sites on all data settings of chest X-rays is still very difficult,
 if not impossible when only several thousands of images are employed for study.
@@ -18,7 +18,7 @@ more complex images like CT and MRI in the future.
 ## Goal
 
 Our goal is to train a deep convolutional neural network that can reliably classify different thoracic pathologies from
-human chest X{rays. This will allow for a faster and more accurate diagnoses of several diseases, which will lead to
+human chest X-rays. This will allow for a faster and more accurate diagnoses of several diseases, which will lead to
 a more effcient care of patients in hospitals around the world.
 
 ## Data
@@ -33,7 +33,7 @@ Patient ID, Patient Age, Patient Gender, View Position, Original Image Size and 
 
 ## Model and Method
 
-We will train deep convolutional neural networks on this dataset to correctly identify the one or more pathologies
-in each X{ray image. In order to do this, we will try to minimize the cross{entropy between the ground truth and
+We will train deep convolutional neural networks on this dataset to correctly identify one or more pathologies
+in each X-ray image. In order to do this, we will try to minimize the cross-entropy between the ground truth and
 the classiffication results. We will make use of transfer learning and therefore use a variety of popular architectures
 used in image recognition such as ResNet, AlexNet, VGG, etc.
