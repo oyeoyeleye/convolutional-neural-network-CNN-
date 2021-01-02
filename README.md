@@ -23,8 +23,8 @@ a more effcient care of patients in hospitals around the world.
 
 ## Data
 
-This NIH Chest X-ray dataset [5] is comprised of 112; 120 X-ray images with resolution 1024 by 1024 and disease labels
-from 30; 805 unique patients. The 14 disease image labels (where each image can have multi-labels, see Fig. 1 & 2),
+This NIH Chest X-ray dataset [5] is comprised of 112,120 X-ray images with resolution 1024 by 1024 and disease labels
+from 30,805 unique patients. The 14 disease image labels (where each image can have multi-labels, see Fig. 1 & 2),
 were mined from the associated radiological reports using Natural Language Processing (NLP). The 14 classes are
 common thoracic pathologies: Atelectasis, Consolidation, Infitration, Pneumothorax, Edema, Emphysema, Fibrosis,
 Effusion, Pneumonia, Pleural thickening, Cardiomegaly, Nodule, Mass, and Hernia. These text-mined disease labels
